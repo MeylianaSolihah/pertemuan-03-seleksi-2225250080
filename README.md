@@ -2,7 +2,7 @@
 
 Nama: Meyliana Solihah
 NIM: 2225250080
-Kelas: 2225250080
+Kelas: 3B
 
 ## Tujuan
 
